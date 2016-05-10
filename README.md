@@ -11,9 +11,9 @@ Provide a UI implementation to the following requirement:
 ###Running the Application
 
 ```
-	> git clone git@github.com:ksiddana/D3-React-Tutorials.git
-	> cd D3-React-Tutorials/Whil-Coding-Exercise-List
-	> npm install
-	> npm start
+	$ git clone https://github.com/ksiddana/Carwash-Application.git
+	$ cd Carwash-Application.git
+	$ npm install
+	$ npm start
 ```
 Once you have the npm modules installed. Open up your browser and go to [http://localhost:8080](http://localhost:8080)
