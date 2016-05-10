@@ -9,7 +9,6 @@ class CarList extends Component {
   }
 
   render() {
-    console.log('CarList', this.props);
     return (
       <div>
       {this.props.cars.length ? this.props.cars.map((key, i, car) => {
